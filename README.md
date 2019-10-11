@@ -2,10 +2,19 @@
 to set clion common folder, include, lib, etc.
 
 ## Directory structure
- |_ include
-      |_ project1
-      |_ project2
- |_ lib
- |_ prj
-      |_ project1
-      |_ project2
+```
+root
+└── README.md
+├── bin
+├── include
+    └── project1
+    └── project2   
+├── lib
+├── prj
+    └── CMakeList.txt
+    └── project1
+    └── project1
+        └── gtest
+            └── lib
+            └── CMakeList.txt
+```
