@@ -1,5 +1,7 @@
-# clion
-to set clion common folder, include, lib, etc.
+# CLion based development envirionment
+ - Structure of common folders of bin, include, lib.
+ - Put your CLion project under "prj" folder.
+ - Referential header files and libraries should be put under "include" and "lib", respectively.
 
 ## Directory structure
 ```
