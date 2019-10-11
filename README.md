@@ -9,13 +9,13 @@ root
 └── README.md
 ├── bin
 ├── include
-    └── project1
-    └── project2   
+    └── project_name1
+    └── project_name2   
 ├── lib
 ├── prj
     └── CMakeList.txt
-    └── project1
-    └── project1
+    └── project_name1
+    └── project_name2
         └── gtest
             └── lib
             └── CMakeList.txt
